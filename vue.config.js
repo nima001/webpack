@@ -18,9 +18,6 @@ module.exports = {
           chunks: ['chunk-vendors', 'chunk-common', 'index']
         },
     },
-    publicPath: '/asdsd',
+    publicPath: '',
     outputDir: 'dddd',
-    // chainWebpack:config=> {
-    //   config.module
-    // }
 }
